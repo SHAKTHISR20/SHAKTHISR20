@@ -34,6 +34,7 @@ Get in Touch
 I’m always open to collaboration, feedback, or discussing new ideas for web development!  
 
  GitHub:https://github.com/SHAKTHISR20
+
  Linkedin:https://www.linkedin.com/in/shakthi-sr-74b10b354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Fun Fact
