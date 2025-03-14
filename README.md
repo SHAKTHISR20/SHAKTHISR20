@@ -1,4 +1,4 @@
-😄Hi, I'm Shakthi Sanmathi R
+Hi, I'm Shakthi Sanmathi R
 I'm a passionate self-taught website developer with experience building projects using modern web technologies. I specialize in Node.js, Express.js, and HTML, and I’m always excited to learn new tools and frameworks to enhance my skills. I love creating functional, user-friendly websites, tackling challenges, and bringing my many ideas to life through code.
 About Me
  Self-Learned Skills: I taught myself Node.js and Express.js through hands-on projects and dedication.
